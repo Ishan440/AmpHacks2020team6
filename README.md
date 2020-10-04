@@ -38,3 +38,7 @@ RBC Management: RBC has a large network of experts in their respective fields an
 4. Allow clients and mentors to interact through messaging.
 5. Survey feedback from clients about the experience.
 
+# Future Features:
+1. Allow mentors to share their views on common solutions that affect business growth and facilitate public discussion.
+2. Integrate helpful tools on the platform like budget managers, progress tracj
+
