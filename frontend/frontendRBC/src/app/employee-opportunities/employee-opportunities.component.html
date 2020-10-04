@@ -1,0 +1,20 @@
+<app-header user="employee"></app-header>
+
+<select class="custom-select custom-select-lg mb-3" [(ngModel)]="selectedCategory" (change)="valueSelected()">
+  <option selected>By Categories</option>
+  <option *ngFor="let item of categories">{{ item }}</option>
+</select>
+
+<div style="display: flex; align-content: space-between;  flex-wrap: wrap;">
+  <mat-card *ngFor="let product of list" style="margin: auto;">
+    <mat-card-header>
+      <mat-card-title>{{ product.name }}</mat-card-title>
+      <mat-card-subtitle>{{ product.title }}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image [src]="product.photo" [alt]="product.name">
+    <mat-card-actions>
+      <!-- <button mat-button (click)="addProduct(product.sku)">Learn More</button> -->
+      <button mat-button>Learn More</button>
+    </mat-card-actions>
+  </mat-card>
+</div>

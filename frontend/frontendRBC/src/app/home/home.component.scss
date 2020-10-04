@@ -1,0 +1,28 @@
+.login{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  
+
+    background: linear-gradient(35deg, #f3e073, rgb(250, 240, 195), rgb(255, 249, 169));
+ 
+}
+
+.card-style{
+  width: 30%;
+  
+}
+
+.jumbotron{
+  height: 100vh;
+  background-image: url("../../assets/splash.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  margin-bottom: 0;
+}
+

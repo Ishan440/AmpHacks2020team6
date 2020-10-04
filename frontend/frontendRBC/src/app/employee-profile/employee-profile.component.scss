@@ -1,0 +1,21 @@
+.circular--square {
+  border-radius: 50%;
+  width:200px;
+  height: 200px; 
+}
+
+.top{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-between;
+  margin: 20px;
+}
+
+.wrapper{
+  margin: auto;
+  padding: 20px;
+}
+.calling{
+  margin-left:20px;
+}

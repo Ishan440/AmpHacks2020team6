@@ -1,0 +1,25 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+
+  padding: 10px;
+
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+width: 25vw;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+mat-card img{
+  object-fit: cover; /*this makes the image in src fit to the size specified below*/
+  width: 350px; /* Here you can use wherever you want to specify the width and also the height of the <img>*/
+  height: 300px;
+}
+
+select{
+width: 30%;
+margin: 20px; 
+}
