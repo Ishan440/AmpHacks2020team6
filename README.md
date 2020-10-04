@@ -1,12 +1,17 @@
 # AmpHacks2020team6
-Hackathon Challenge: 
-# Set up Instructions:
+Hackathon Challenge: How might we think beyond banking to create meaningful solutions to make Canadian Lives better.
+Problem: Over 95,000 new small businesses are started in Canada every year. However, less than 65% make it past the 5 year mark. How might we provide entrepreneurs and small business owners with solutions to grow, build, and maintain their own businesses?
+Our Solution: An RBC-hosted web platform which helps small business owners to connect with current RBC employees and experts. The web-application allows business owners to book one-one mentorship appointments with an employees and review how helpful the session was. More positive reviews can therefore be reflected in employee performace reviews and end of year-bonuses.
+
+# Set up Instructions: 
 1. Clone this repo and cd to the project directory.
 2. Run pip3 install -r requirements.txt
 3. To start the server run python3 manage.py runserver
+
 # User Stories
 
 Customer: Rob is a small business owner who is struggling with budget fluctuations due to the pandemic. Rob decides to seek expert advice in the area of social media marketing on the subject and visits the website to find the best people who can support him. 
+
 As a customer I want to be able to register and login to my account. 
 As a customer I should be able to post questions to multiple employees at once and share my views on common business problems/solutions socially. (News Feed)
 As a customer I should be able to choose the category of expert I am looking for
@@ -14,7 +19,7 @@ As a customer I should be able to search experts with specific category and sele
 As a small business owner I should be able to leave a review for the RBC employee after he has finished the volunteer work.
 
 
-RBC Employee: Lucy works as within Digital Marketing and Sales at RBC  and is looking to give back to the community. Currently, RBC employees get opportunities in their email inbox such as charity, community clean up and marathons. She can visit our platform to find opportunities she might be a good fit for. She finds a furniture store in her neighborhood who is looking for someone to go over their income tax returns. She connected with them and helped them save 1000$ in income tax returns. 
+RBC Employee: Lucy works as within Digital Marketing and Sales at RBC  and is looking to give back to the community. Currently, RBC employees get opportunities in their email inbox such as charity, community clean up and marathons. Lucy visits the RBC uplift platform to find opportunities she might be a good fit for. She finds a furniture store in her neighborhood who is looking for someone to go over their income tax returns. She connected with them and helped them save 1000$ in income tax returns. 
  
 As an employee I should have the complete freedom to participate in the program and drop out of the program.
 As an employee my schedule needs to be respected so appointments can be 
