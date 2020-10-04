@@ -5,10 +5,7 @@ Problem: Over 95,000 new small businesses are started in Canada every year. Howe
 
 Our Solution: An RBC-hosted web platform which helps small business owners to connect with current RBC employees and experts. The web-application allows business owners to book one-one mentorship appointments with an employees and review how helpful the session was. More positive reviews can therefore be reflected in employee performace reviews and end of year-bonuses.
 
-Here's a short view of how it looks
-<video width="320" height="240" controls>
-  <source src="mdeia/" type="video/mp4">
-</video>
+
 # Set up Instructions
 1. Clone this repo and cd to the project directory.
 2. Run npm install
