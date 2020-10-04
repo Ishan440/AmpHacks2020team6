@@ -1,4 +1,4 @@
-# AmpHacks2020team6
+# AmpHacks2020team6 RBC Uplift
 Hackathon Challenge: How might we think beyond banking to create meaningful solutions to make Canadian Lives better.
 Problem: Over 95,000 new small businesses are started in Canada every year. However, less than 65% make it past the 5 year mark. How might we provide entrepreneurs and small business owners with solutions to grow, build, and maintain their own businesses?
 Our Solution: An RBC-hosted web platform which helps small business owners to connect with current RBC employees and experts. The web-application allows business owners to book one-one mentorship appointments with an employees and review how helpful the session was. More positive reviews can therefore be reflected in employee performace reviews and end of year-bonuses.
