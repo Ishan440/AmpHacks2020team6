@@ -38,7 +38,14 @@ RBC Management: RBC has a large network of experts in their respective fields an
 4. Allow clients and mentors to interact through messaging.
 5. Survey feedback from clients about the experience.
 
-# Future Features:
+# Future Features
 1. Allow mentors to share their views on common solutions that affect business growth and facilitate public discussion.
-2. Integrate helpful tools on the platform like budget managers, progress tracj
+2. Integrate helpful tools on the platform like budget managers, progress trackers etc.
 
+# Meet our Team
+We loved working on this solution and are extremely grateful to the Hackathon Mentors fo supporting us.
+We would love to answer any questions you might have, you can find us on Github or LinkedIn:
+- Rija Asif [LinkedIn](https://www.linkedin.com/in/rija-asif/) [Github](https://www.linkedin.com/in/rija-asif/)
+- Shannon Lim [LinkedIn](http://www.linkedin.com/in/shannon-lim8) [Github](https://github.com/shannon-codes)
+- Sarvesh Bhadwar [LinkedIn](http://www.linkedin.com/in/sarveshb53/) [Github](http://www.github.com/badhwars)
+- Ishan Sharma [LinkedIn](https://www.linkedin.com/in/ishan-sharma-810220176/) [Github](https://github.com/Ishan440)
