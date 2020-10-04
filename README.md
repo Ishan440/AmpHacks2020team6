@@ -5,8 +5,8 @@ Our Solution: An RBC-hosted web platform which helps small business owners to co
 
 # Set up Instructions: 
 1. Clone this repo and cd to the project directory.
-2. Run pip3 install -r requirements.txt
-3. To start the server run python3 manage.py runserver
+2. Run npm install
+3. Run ng serve --open
 
 # User Stories
 
